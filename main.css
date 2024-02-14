@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000000;
+}
+
+p {
+    font-size: 8px;
+    line-height: 8px;
+    text-align: justify;
+    background: url('uljana-borodina-NFj6pEUdmpY-unsplash.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center/cover;
+    color: rgba(225, 225, 225, 0);
+    -webkit-background-clip: text;
+}
